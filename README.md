@@ -1,16 +1,14 @@
 <img src="https://github.com/Geeorgge/geeorgge/blob/main/images/George2.gif" width="1500" align="center"/>
 
 <h1 align="center">Hi 👋, I'm George.</h1>
-<h3 align="center">A passionate backend web developer with python.</h3>
+<h3 align="center">A passionate backend web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeorgge&label=Profile%20views&color=0e75b6&style=flat" alt="geeorgge" /> </p>
 
 ## Abstract. 
-- 🔭 I’m currently working on Django projects.
+- 🔭 I’m currently working at Justia, as a Software Engineering Intern.
 
-- 🌱 I’m currently learning Django, Microservices with Docker and MongoDB.
-
-- :mag_right:   I’m interested work with API's in this technologies.
+- 🌱 I’m currently learning and working with PHP :D
 
 ## More me. 
 - :alien: Science enthusiast.
