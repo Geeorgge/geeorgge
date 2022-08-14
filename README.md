@@ -1,4 +1,4 @@
-<img src="https://github.com/Geeorgge/geeorgge/blob/main/images/George2.gif" width="1025" align="center"/>
+<img src="https://github.com/Geeorgge/geeorgge/blob/main/images/George2.gif" width="955" align="center"/>
 
 <h1 align="center">Hi 👋, I'm George.</h1>
 <h3 align="center">A passionate backend web developer</h3>
