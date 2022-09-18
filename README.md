@@ -1,14 +1,12 @@
 <img src="https://github.com/Geeorgge/geeorgge/blob/main/images/George2.gif" width="855" align="center"/>
 
 <h1 align="center">Hi 👋, I'm George.</h1>
-<h3 align="center">A passionate backend web developer</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeorgge&label=Profile%20views&color=0e75b6&style=flat" alt="geeorgge" /> </p>
 
 ## Abstract. 
-- 🔭 I’m currently working at Justia, as a Software Engineering Intern.
-
-- 🌱 I’m currently learning and working with PHP :D
+- 🔭 I’m currently working at Justia, as an Associate Software Engineering.
 
 
 ## More me. 
