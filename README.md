@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeorgge&label=Profile%20views&color=0e75b6&style=flat" alt="geeorgge" /> </p>
 
-## Abstract. 
-- 🔭 I’m currently working at Justia, as an Associate Software Engineering.
+
 
 
 ## More me. 
